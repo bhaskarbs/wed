@@ -122,8 +122,65 @@ iframe {
 	overflow: auto;
 }
 .copywrite {
-    color: #fff;
-    font-size: 13px;
-    font-weight: 600;
-    text-transform: uppercase;
+	color: #fff;
+	font-size: 13px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+/*About page*/
+.about-font {
+	font-size: 15px;
+	font-family: Montserrat;
+}
+#about-cover .wed {
+	font-size: 25px;
+}
+#cover-text h5 {
+	font-weight: 700;
+	color: #ccc;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+#cover-text h1 {
+	font-weight: 800;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 39px;
+	font-family: oswald;
+	word-spacing: 3px;
+}
+#cover-text p {
+	font-size: 16px;
+	font-weight: 800;
+	padding: 2px 287px;
+	text-align: center;
+	font-family: montserrat;
+}
+#cover-text {
+	margin-top: 161px;
+	margin-bottom:86px;
+}
+.wed-heading {
+	font-family: oswald;
+	font-size: 18px;
+	font-weight: 100;
+	letter-spacing: 3px;
+	margin-bottom: -10px;
+	margin-top: 50px;
+	word-spacing: 6px;
+}
+.wed-head2 {
+	margin-bottom: -45px;
+}
+.about-even h2 {
+	font-family: oswald;
+/*	font-size: 42px !important;
+*/	font-weight: 600;
+	text-transform: uppercase;
+
+}
+.about-even p {
+	font-size: 15px;
+	font-weight: 600;
 }
