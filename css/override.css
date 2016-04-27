@@ -184,3 +184,29 @@ iframe {
 	font-size: 15px;
 	font-weight: 600;
 }
+.front .node--hero .field--name-title2 h1 {
+	font-size:30px;
+	line-height: 45px;
+	width: 60%;
+    margin: 0 auto;
+}
+#cover-text2 p {
+	font-size: 16px;
+	font-weight: 800;
+	padding: 2px 15%;
+	font-family: montserrat;
+}
+#cover-text2 p b {
+	font-size: 20px;
+}
+#cover-text2 {
+	margin-top: 161px;
+	margin-bottom:86px;
+}
+#cover-text2 h5 {
+	font-weight: 700;
+	color: #ccc;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 17px;
+}
