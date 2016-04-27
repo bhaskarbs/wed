@@ -1,0 +1,129 @@
+.logo {
+	width:100%;
+	margin-left:10px;
+}
+.site-header {
+	margin-top:20px;
+}
+.fl {
+	float: right;
+}
+.fr {
+	float:right;
+}
+.top-social img {
+	margin:0px 10px;
+	width:25px;
+
+}
+.block--discovery-off-canvas-off-canvas-toggle .block__content {
+	margin-right:0px;
+	margin-top:5px;
+	margin-left: 20px;
+}
+
+.nav.bottom{
+	text-align: center;
+	float: right;
+	font-size: 16px;
+	font-family: Oswald;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.nav.bottom a {
+	color: #000;
+}
+.nav>li>a { 
+	padding:20px 0.8em;
+}
+.site-header {
+	height:200px;
+}
+.front .node--hero .field--name-title h1 {
+	font-size: 50px;
+}
+.front .node--hero .scroll {
+	background: #00a1e0;
+}
+.vertical-line {
+	background: #00a1e0;
+}
+.btn-red {
+	background: #00a1e0;
+}
+body.off-canvas-active .l-off-canvas {
+	z-index:2000;
+}
+#block-discovery-off-canvas-off-canvas-toggle {
+	display:none;
+}
+
+@media (max-width: 1073px) {
+	#block-discovery-off-canvas-off-canvas-toggle {
+		display:block;
+	}
+	.nav {
+		display:none;
+	}
+}
+
+
+@font-face {
+	font-family: Montserrat;
+	src: url(../fonts/Montserrat-Bold.ttf);
+}
+@font-face {
+	font-family: Montserrat;
+	src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+	font-family: Oswald;
+	src: url(../fonts/Oswald-Regular.ttf);
+}
+/*Footer Custom Classes*/
+.block__content.text-center > p {
+	color: #fff;
+	font-family: Oswald;
+	font-size: 31px;
+}
+.footer-nav > ul {
+	margin-top: 16px;
+}
+.footer-nav > ul li {
+	display: inline;
+	margin-right: 12px;
+}
+.footer-nav a {
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 13px;
+	font-weight: 600;
+	margin-right: 21px;
+}
+.footer-nav {
+	border-top: 1px solid #ccc;
+	margin: 36px 51px 0;
+}
+iframe {
+	height: 500px;
+	margin-top: 58px;
+	overflow: hidden;
+	width: 100%;
+}
+.nav .leaf a {
+	font-weight: 100;
+}
+.l-footer-wrapper {
+	padding: 40px 0px 0px;
+	background: #1D1D1B;
+	color: #5a6e79;
+	position: relative;
+	overflow: auto;
+}
+.copywrite {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
