@@ -149,6 +149,9 @@ table {
     .page-search .search-results {
         width: 72.72727%;
     }
+    #cover-text p {
+        padding: 2px 166px;
+    }
 }
 @media (max-width: 1023px) {
     .l-region,
@@ -162,6 +165,7 @@ table {
     .page-search .search-results {
         width: 650px;
     }
+
 }
 @media (max-width: 767px) {
     .l-region,
